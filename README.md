@@ -1,6 +1,6 @@
 # ASCII Art
 
-This is an advanced beginners guided project, taken [robertheaton.com](https://robertheaton.com/2018/06/12/programming-projects-for-advanced-beginners-ascii-art/).
+This is an advanced beginners guided project, taken from [robertheaton.com](https://robertheaton.com/2018/06/12/programming-projects-for-advanced-beginners-ascii-art/).
 
 The idea here was to turn images into ASCII-art.
 
