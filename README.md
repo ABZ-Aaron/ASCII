@@ -20,7 +20,7 @@ Once you've run through these options, an ASCII image will be printed. Zoom out 
 
 # What I Learned
 
-Here I developed some additional skills around some basic programming concepts/structures such as conditional statements, loops, and arrays. 
+Here I developed some additional skills around some basic programming concepts/structures such as conditional statements, loops, and arrays, as well as the library [Pillow](https://pypi.org/project/Pillow/).
 
 I also developed my debugging skills, as it took a long time before I got my script right.
 
